@@ -15,7 +15,7 @@ A conversational AI application that lets you chat with a digital persona of Alb
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/einstein_ai_chat.git](https://github.com/your-username/einstein_ai_chat.git)
+git clone https://github.com/pawan-xdd/einstein_ai_chat.git
 cd einstein_ai_chat
 ```
 
