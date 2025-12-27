@@ -60,8 +60,9 @@ GEMINI_API_KEY=your_actual_key_here
 python main.py
 ```
 Once running, open the local URL (usually http://127.0.0.1:7860) in your browser.
+If ``page.launch(share=)`` is set to ``True`` then you will also get a public URL valid for a week.
 
-Usage
+### Usage
 
 - Type your questions in the textbox to chat with Einstein.
 
