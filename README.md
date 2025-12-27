@@ -1,6 +1,6 @@
 # Einstein AI Chat 🏛️
 
-A conversational AI application that lets you chat with a digital persona of Albert Einstein. Powered by Google Gemini-1.5-Flash and LangChain.
+A conversational AI application that lets you chat with a digital persona of Albert Einstein. Powered by Google Gemini-2.5-Flash and LangChain.
 
 ## Features
 - **Authentic Persona**: Responds as Albert Einstein with personal anecdotes and scientific reasoning.
